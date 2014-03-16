@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+
+        <link rel="icon" type="image/png" href="{{ site.url }}/assets/favicon.png"/>
+
+        <!-- Custom styles for this template -->
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+
+    </head>
+    <body>
+        <div id="nav" class="container">
+            <a id="brand" href="{{ site.url }}/">
+                <h1>Arabic 1 at CRLS</h1>
+            </a>
+            <navbar role="navigation">
+                <a href="{{ site.url }}/">Home</a>
+                <a href="{{ site.url }}/documents">Documents</a>
+                <a href="{{ site.url }}/resources">Resources</a>
+                <a href="{{ site.url }}/music">Music</a>
+                <a href="{{ site.url }}/syf">SYF</a>
+            </navbar>
+        </div>
+        <div class="{{ page.container_css_class }}">
+                <div class="site">
+                    {{ content }}
+                </div><!-- /site -->
+                <hr/>
+        </div>
+
+        <div class="container">
+            <footer>
+                <p style="float:right">All rights reserved &copy; 2014</p>
+                Contact Ms. S.:
+                <address style="padding-left:15px">
+                  <strong>Email</strong>: <a href="mailto:rsocol@bu.edu">rsocol@bu.edu</a><br/>
+                  <strong>Course website</strong>: <a href="http://www.alkitaabtextbook.com/">http://www.alkitaabtextbook.com/</a><br/>
+                  (forgot the login? email Ms. S.)
+                </address>
+            </footer>
+        </div>
+    </body>
+</html>

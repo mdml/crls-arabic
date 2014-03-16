@@ -1,0 +1,5 @@
+name: Robin Socol
+markdown: redcarpet
+pygments: true
+redcarpet:
+  extensions: [underline]
