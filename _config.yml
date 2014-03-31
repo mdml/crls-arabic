@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 redcarpet:
   extensions: [underline]
-baseurl: /crls-arabic/
+baseurl: /crls-arabic

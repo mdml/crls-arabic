@@ -6,14 +6,18 @@ container_css_class: container
 
 ## Resources
 
-##### Arabic programs
+##### Arabic Programs
 
-* [Link 1](http://www.nsliforyouth.org/languages-and-programs/arabic/)
-* [Link 2](http://www.afs.org/afs-and-exchange-programs/participate-in-afs-programs/")
-* [Link 3](http://nmelrc.org/how-register-arabic-without-walls-0)
-* [Link 4](http://www.concordialanguagevillages.org/newsite/programs/youth/summer_villages/Arabic/Arabic_Scholarship_Opportunities.php)
-* [Link 5](http://www.yes-abroad.org/)
-* [Link 6](http://ung.edu/global-engagement/fsla/index.php)
-* [Link 7](https://startalk.umd.edu/programs/search?sort=name&amp;year=2013&amp;state=MD&amp;language=Arabic&amp;participant-type=student)
-* [Link 8](http://mmla.middlebury.edu/academy-life/experience-the-culture/arabic.php)
-* [Link 9](http://flan.csusb.edu/slip/brochures-posters/2014ArabicSLIP)
+* [Arabic Without Walls Hybrid Online Course](http://nmelrc.org/how-register-arabic-without-walls-0)
+* [Summer Arabic Camp at Concordia Language Villages](http://www.concordialanguagevillages.org/newsite/programs/youth/summer_villages/Arabic/Arabic_Scholarship_Opportunities.php)
+* [StarTalk Arabic Programs for Summer 2014](https://startalk.umd.edu/programs/search?sort=name&amp;year=2013&amp;state=MD&amp;language=Arabic&amp;participant-type=student)
+* [Middlebury Summer Arabic Program in Monterey, CA](http://mmla.middlebury.edu/academy-life/experience-the-culture/arabic.php)
+* [NSLI-Y Arabic Study Abroad](http://www.nsliforyouth.org/languages-and-programs/arabic/)
+
+##### Helpful Links
+
+* [Study our mufradaat online at Quizlet](https://www.quizlet.com/_l2kkg)
+* [Yamli Keyboard--Type in Arabic without an Arabic keyboard](http://www.yamli.com/arabic-keyboard/)
+* [How to Install Arabic on a Mac](https://www.youtube.com/watch?v=WVCrMgFv75o)
+* [How to Install Arabic on a PC](https://www.youtube.com/watch?v=0XRUQj3szsw)
+
