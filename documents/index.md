@@ -31,6 +31,11 @@ Check here for PDFs of all of our informational slideshows.
 
 Check here for PDFs of all of our daily agendas.
 
+* [Day 43, April 4th](../assets/documents/agendas/Day43-Apr-04.pdf)
+* [Day 42, April 3rd](../assets/documents/agendas/Day42-Apr-03.pdf)
+* [Day 41, April 2nd](../assets/documents/agendas/Day41-Apr-02.pdf)
+* [Day 40, April 1st](../assets/documents/agendas/Day40-Apr-01.pdf)
+* [Day 39, March 31st](../assets/documents/agendas/Day39-Mar-31.pdf)
 * [Day 38, March 28th](../assets/documents/agendas/Day38-Mar-28.pdf)
 * [Day 37, March 27th](../assets/documents/agendas/Day37-Mar-27.pdf)
 * [Day 36, March 26th](../assets/documents/agendas/Day36-Mar-26.pdf)
